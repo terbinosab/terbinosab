@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm terbinosab</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img src="𝙸𝚌𝚘𝚗𝚜.jpg" alt="𝙸𝚌𝚘𝚗𝚜.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=terbinosab&label=Profile%20views&color=0e75b6&style=flat" alt="terbinosab" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=terbinosab&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/search?client=firefox-b-d&sca_esv=2f37674a3ad0ce97&sca_upv=1&q=spongebob&tbm=isch&source=lnms&prmd=ivsnmbz&sa=X&ved=2ahUKEwj40N2D2qGFAxVIgf0HHUCdBnIQ0pQJegQICRAB&biw=1920&bih=932&dpr=1#imgrc=bTU4_U2ule6MiM)" alt="terbinosab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terbinosab" alt="terbinosab" /></a> </p>
 
