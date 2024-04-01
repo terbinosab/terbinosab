@@ -22,6 +22,6 @@
 
 <br> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terbinosab&show_icons=true&locale=en" alt="terbinosab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terbinosab&show_icons=true&locale=en" alt="terbinosab" style="margin-top:10%;"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terbinosab&" alt="terbinosab" /></p>
