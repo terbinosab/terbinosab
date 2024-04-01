@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm terbinosab</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img src="https://www.google.com/search?client=firefox-b-d&sca_esv=2f37674a3ad0ce97&sca_upv=1&q=spongebob&tbm=isch&source=lnms&prmd=ivsnmbz&sa=X&ved=2ahUKEwj40N2D2qGFAxVIgf0HHUCdBnIQ0pQJegQICRAB&biw=1920&bih=932&dpr=1#imgrc=bTU4_U2ule6MiM" alt="𝙸𝚌𝚘𝚗𝚜.jpg">
+<img src="https://www.cbr.com/spongebob-square-pants-squidward-facts/" alt="𝙸𝚌𝚘𝚗𝚜.jpg">
 <p align="left"> <img src="https://github.com/terbinosab" alt="terbinosab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terbinosab" alt="terbinosab" /></a> </p>
