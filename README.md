@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://github.com/terbinosab" alt="terbinosab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terbinosab" alt="terbinosab" /></a> </p>
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width: 45%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terbinosab" alt="terbinosab" /></a> </p>
+
 
 - 🌱 I’m currently learning **courses**
 
@@ -22,6 +22,6 @@
 
 <br> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terbinosab&show_icons=true&locale=en" alt="terbinosab" style="margin-top:40%;"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terbinosab&show_icons=true&locale=en" alt="terbinosab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terbinosab&" alt="terbinosab" /></p>
