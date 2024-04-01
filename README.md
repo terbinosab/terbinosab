@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm terbinosab</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img src="https://www.cbr.com/spongebob-square-pants-squidward-facts/" alt="𝙸𝚌𝚘𝚗𝚜.jpg">
+<img src="𝙸𝚌𝚘𝚗𝚜.jpg" alt="𝙸𝚌𝚘𝚗𝚜.jpg">
 <p align="left"> <img src="https://github.com/terbinosab" alt="terbinosab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terbinosab" alt="terbinosab" /></a> </p>
