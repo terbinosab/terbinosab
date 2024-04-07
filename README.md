@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm terbinosab</h1>
-![Wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/api/v1/users/Terbinos1/stats/last_7_days&style=flat-square&logo=wakatime&label=Last%207%20Days)
-![Wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/api/v1/users/Terbinos1/stats/last_7_days&style=flat-square&logo=wakatime&label=Last%207%20Days)
+![Wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/api/v1/users/Terbinos1/stats/last_7_days&style=flat-square&logo=wakatime&label=Last%207%20Days](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fendpoint%3Furl%3Dhttps%3A%2F%2Fwakatime.com%2Fapi%2Fv1%2Fusers%2FTerbinos1%2Fstats%2Flast_7_days%26style%3Dflat-square%26logo%3Dwakatime%26label%3DLast%25207%2520Days
+)
 
 
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
