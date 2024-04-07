@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://github.com/terbinosab" alt="terbinosab" /> </p>
-<img align="right" alt="Coding" src="https://www.spongebobshop.com/products/squidward-standee">
+<img align="right" alt="Coding" src="Icons.jpg">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terbinosab" alt="terbinosab" /></a> </p>
 
 
