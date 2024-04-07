@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm terbinosab</h1>
 <?xml version="1.0" encoding="utf-8"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types"><Default Extension="dll" ContentType="application/octet-stream" /><Default Extension="pdb" ContentType="application/octet-stream" /><Default Extension="pkgdef" ContentType="text/plain" /><Default Extension="vsixmanifest" ContentType="text/xml" /><Default Extension="png" ContentType="application/octet-stream" /><Override PartName="/LICENSE" ContentType="application/octet-stream" /></Types>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
+![Placeholder](https://via.placeholder.com/150)
 
 <p align="left"> <img src="https://github.com/terbinosab" alt="terbinosab" /> </p>
 <img align="right" alt="Coding" src=".jpg">
