@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm terbinosab</h1>
 ![Wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/api/v1/users/Terbinos1/stats/last_7_days&style=flat-square&logo=wakatime&label=Last%207%20Days)
+![Wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/api/v1/users/Terbinos1/stats/last_7_days&style=flat-square&logo=wakatime&label=Last%207%20Days)
 
 
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
