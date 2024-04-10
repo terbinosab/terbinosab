@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm terbinosab</h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
 
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>O X Game</title>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <link rel="stylesheet" href="m.css">
+
+
   <style>
     .container {
   text-align: center;
@@ -67,8 +61,7 @@
   }
 }
   </style>
-</head>
-<body>
+
   <div class="container">
     <h1>O X Game</h1>
     <div id="board" class="board"></div>
@@ -150,8 +143,7 @@ resetBtn.addEventListener('click', resetGame);
 resetGame();
 
   </script>
-</body>
-</html>
+
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 ![Placeholder](https://via.Icons.jpg.com/150)
 
